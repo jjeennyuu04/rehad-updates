@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "windowsUrl": "https://github.com/jjeennyuu04/rehad-updates/releases/download/v1.0.1/ReHAD_v1.0.1.zip",
-  "androidUrl": "https://github.com/jjeennyuu04/rehad-updates/releases/download/v1.0.1/rehad.apk",
+  "version": "1.0.2",
+  "windowsUrl": "https://github.com/jjeennyuu04/rehad-updates/releases/download/v1.0.2/ReHAD_v1.0.2.zip",
+  "androidUrl": "https://github.com/jjeennyuu04/rehad-updates/releases/download/v1.0.2/rehad.apk",
   "notes": "v1.0.1: Test Windows and Android updates"
 }
