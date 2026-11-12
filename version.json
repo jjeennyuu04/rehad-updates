@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5.4",
-  "windowsUrl": "https://github.com/jjeennyuu04/rehadupdates/releases/download/v1.0.5.4/ReHAD_v1.0.5.4.zip",
-  "androidUrl": "https://github.com/jjeennyuu04/rehad-updates/releases/download/v1.0.5.4/ReHADv1.0.5.4.apk",
-  "notes": "New Update v1.0.5.4 - fix target spawning in vertical and combo training"
+  "version": "1.0.5.5",
+  "windowsUrl": "https://github.com/jjeennyuu04/rehadupdates/releases/download/v1.0.5.5/ReHAD_v1.0.5.5.zip",
+  "androidUrl": "https://github.com/jjeennyuu04/rehad-updates/releases/download/v1.0.5.5/ReHADv1.0.5.5.apk",
+  "notes": "• Fixed the training target area to match the recorded range of motion.\n• Added a pop-in animation for targets in Random Training.\n• Added Dynamic to the Sequence Menu, a training mode with moving targets.\n• Improved the app update screen with release notes and clearer download progress.\n• Added an Admin button to upload Excel reports for authorized developers and researchers.\n• Fixed registration so patients and therapists can leave optional fields blank.\n• Fixed missing records in local Excel exports, including assessment lap data."
 }
